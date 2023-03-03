@@ -12,8 +12,8 @@
 - Design Tool: Adobe XD, Canva
 - OS: Windows, Linux
 
-**LinkedIn**: <https://www.linkedin.com/in/eunji-elly-lee/>
-**Portfolio**: <https://elly-portfolio.netlify.app/>
+**LinkedIn**: <https://www.linkedin.com/in/eunji-elly-lee/> <br />
+**Portfolio**: <https://elly-portfolio.netlify.app/> <br />
 **Email**: <elllee2020@gmail.com>
 
 ------------
