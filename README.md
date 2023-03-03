@@ -11,8 +11,8 @@
   - Tech Tool: Stripe, Jekyll, Disqus, Google Analytics, Google Maps Platform
   - Design Tool: Adobe XD, Canva
   - OS: Windows, Linux
-- **LinkedIn**: ['[https://www.linkedin.com/in/eunji-elly-lee/]'](https://www.linkedin.com/in/eunji-elly-lee/){: target="_blank" } <br />
-- **Portfolio**: ['[https://elly-portfolio.netlify.app/]'](https://elly-portfolio.netlify.app/){: target="_blank" } <br />
+- **LinkedIn**: <https://www.linkedin.com/in/eunji-elly-lee/> <br />
+- **Portfolio**: <https://elly-portfolio.netlify.app/> <br />
 - **Email**: <elllee2020@gmail.com>
 
 ------------
