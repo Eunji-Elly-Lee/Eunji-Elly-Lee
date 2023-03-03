@@ -1,4 +1,4 @@
-## Hello! I'm Elly Lee!
+### Hello! I'm Elly Lee!
 ------------
 
 **Skills**
