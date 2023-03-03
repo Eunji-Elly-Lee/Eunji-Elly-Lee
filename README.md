@@ -1,5 +1,22 @@
-### Hello! I'm Eunji Elly Lee!
+## Hello! I'm Elly Lee!
+------------
 
+**Skills**
+- Front-end: HTML, CSS, Bootstrap, JSP, JavaScript, Markdown
+- Back-end: Node.js, Express.js, JSP, Servlet, JavaScript
+- JS library: React.js, Redux.js
+- OOP: Java, Python
+- Database: Oracle, MySQL, MongoDB
+- Web Hosting: AWS, Netlify, Firebase
+- Tech Tool: Stripe, Jekyll, Disqus, Google Analytics, Google Maps Platform
+- Design Tool: Adobe XD, Canva
+- OS: Windows, Linux
+
+**LinkedIn**: <https://www.linkedin.com/in/eunji-elly-lee/>
+**Portfolio**: <https://elly-portfolio.netlify.app/>
+**Email**: <elllee2020@gmail.com>
+
+------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunji-Elly-Lee&&include_all_commits=false&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunji-Elly-Lee&langs_count=10&layout=compact&theme=tokyonight&hide_border=true)
 
