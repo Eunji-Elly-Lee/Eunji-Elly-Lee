@@ -1,20 +1,19 @@
 ### Hello! I'm Elly Lee!
 ------------
 
-**Skills**:
-- Front-end: HTML, CSS, Bootstrap, JSP, JavaScript, Markdown
-- Back-end: Node.js, Express.js, JSP, Servlet, JavaScript
-- JS library: React.js, Redux.js
-- OOP: Java, Python
-- Database: Oracle, MySQL, MongoDB
-- Web Hosting: AWS, Netlify, Firebase
-- Tech Tool: Stripe, Jekyll, Disqus, Google Analytics, Google Maps Platform
-- Design Tool: Adobe XD, Canva
-- OS: Windows, Linux
-
-**LinkedIn**: <https://www.linkedin.com/in/eunji-elly-lee/> <br />
-**Portfolio**: <https://elly-portfolio.netlify.app/> <br />
-**Email**: <elllee2020@gmail.com>
+- **Skills**:
+  - Front-end: HTML, CSS, Bootstrap, JSP, JavaScript, Markdown
+  - Back-end: Node.js, Express.js, JSP, Servlet, JavaScript
+  - JS library: React.js, Redux.js
+  - OOP: Java, Python
+  - Database: Oracle, MySQL, MongoDB
+  - Web Hosting: AWS, Netlify, Firebase
+  - Tech Tool: Stripe, Jekyll, Disqus, Google Analytics, Google Maps Platform
+  - Design Tool: Adobe XD, Canva
+  - OS: Windows, Linux
+- **LinkedIn**: ['[https://www.linkedin.com/in/eunji-elly-lee/]'](https://www.linkedin.com/in/eunji-elly-lee/){: target="_blank" } <br />
+- **Portfolio**: ['[https://elly-portfolio.netlify.app/]'](https://elly-portfolio.netlify.app/){: target="_blank" } <br />
+- **Email**: <elllee2020@gmail.com>
 
 ------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunji-Elly-Lee&&include_all_commits=false&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
