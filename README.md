@@ -1,7 +1,7 @@
 ### Hello! I'm Elly Lee!
 ------------
 
-**Skills**
+**Skills**:
 - Front-end: HTML, CSS, Bootstrap, JSP, JavaScript, Markdown
 - Back-end: Node.js, Express.js, JSP, Servlet, JavaScript
 - JS library: React.js, Redux.js
