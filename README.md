@@ -1,16 +1,10 @@
 ### Hello! I'm Elly Lee!
+
+I am an energetic, customer service-oriented developer with strong communication skills. I enjoy the organization and arrangement of code and files and analyzing and solving problems. One of my greatest pleasures is the excitement I feel from learning new skills and using these to take on challenges.
+
 ------------
 
-- **Skills**:
-  - Front-end: HTML, CSS, Bootstrap, JSP, JavaScript, Markdown
-  - Back-end: Node.js, Express.js, JSP, Servlet, JavaScript
-  - JS library: React.js, Redux.js
-  - OOP: Java, Python
-  - Database: Oracle, MySQL, MongoDB
-  - Web Hosting: AWS, Netlify, Firebase
-  - Tech Tool: Stripe, Jekyll, Disqus, Google Analytics, Google Maps Platform
-  - Design Tool: Adobe XD, Canva
-  - OS: Windows, Linux
+- **Skills**: React.js Redux.js Node.js Express.js Bootstrap Java Python Oracle MySQL MongoDB AWS Netlify Firebase AdobeXD Canva
 - **LinkedIn**: <https://www.linkedin.com/in/eunji-elly-lee/> <br />
 - **Portfolio**: <https://elly-portfolio.netlify.app/> <br />
 - **Email**: <elllee2020@gmail.com>
