@@ -4,7 +4,7 @@ I am an energetic, customer service-oriented developer with strong communication
 
 ------------
 
-- **Skills**: React.js Redux.js Node.js Express.js Bootstrap Java Python Oracle MySQL MongoDB AWS Netlify Firebase AdobeXD Canva
+- **Skills**: React.js Redux.js Node.js Express.js Next.js Typescript Bootstrap Java Python Oracle MySQL MongoDB Firebase AWS Netlify AdobeXD Canva
 - **LinkedIn**: <https://www.linkedin.com/in/eunji-elly-lee/> <br />
 - **Portfolio**: <https://elly-portfolio.netlify.app/> <br />
 - **Email**: <elllee2020@gmail.com>
