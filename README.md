@@ -1,12 +1,26 @@
-### Hello! I'm Elly Lee!
+### Keep Going!
 
-I am an energetic, customer service-oriented developer with strong communication skills. I enjoy the organization and arrangement of code and files and analyzing and solving problems. One of my greatest pleasures is the excitement I feel from learning new skills and using these to take on challenges.
+I'm Elly, a junior developer on the rise. I'm passionate about learning, problem-solving, and creating beautiful code.
+
+Every day, I thrive on the excitement of learning new technologies and embracing challenges head-on. One of my greatest joys is crafting clean, elegant code that not only works efficiently but also looks wonderful. When faced with a problem, I dive deep into analysis and enjoy sharing my insights and solutions with others.
+
+My specialties include:
+* Strong communication skills
+* Customer-service mindset
+* A collaborative team player committed to growth
+* A passion for clean code and problem-solving
+* A fast learner who embraces new technologies
+
+I'm always on the lookout for opportunities to share my passion and collaborate with like-minded individuals. Whether it's discussing the latest tech trends or tackling complex coding tasks, I'm eager to engage and contribute to the vibrant developer community.
+
+Let's build something great together!
 
 ------------
 
-- **Skills**: React.js Redux.js Node.js Express.js Next.js Typescript Bootstrap Java Python Oracle MySQL MongoDB Firebase AWS Netlify AdobeXD Canva
+- **Skills**: JavaScript, React.js, Node.js, Express.js, Next.js, Typescript, Java, Python, SQL, MySQL, MongoDB, PostgreSQL, Supabase, Firebase, AWS, Netlify, Bootstrap, Git, Jira, Stripe, Google Analytics, Adobe XD, Figma
 - **LinkedIn**: <https://www.linkedin.com/in/eunji-elly-lee/> <br />
 - **Portfolio**: <https://elly-portfolio.netlify.app/> <br />
+- **Blog**: <https://elly-lee.notion.site/Elly-s-Notion-19c40f00887d4b5baad95b41fa154a9a> <br />
 - **Email**: <elllee2020@gmail.com>
 
 ------------
