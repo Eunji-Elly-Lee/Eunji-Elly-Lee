@@ -18,9 +18,9 @@ Let's build something great together!
 ------------
 
 - **Skills**: JavaScript, React.js, Node.js, Express.js, Next.js, Typescript, Java, Python, SQL, MySQL, MongoDB, PostgreSQL, Supabase, Firebase, AWS, Netlify, Bootstrap, Git, Jira, Stripe, Google Analytics, Adobe XD, Figma
-- **LinkedIn**: <https://www.linkedin.com/in/eunji-elly-lee/> <br />
-- **Portfolio**: <https://elly-portfolio.netlify.app/> <br />
-- **Blog**: <https://elly-lee.notion.site/Elly-s-Notion-19c40f00887d4b5baad95b41fa154a9a> <br />
+- **LinkedIn**: <[linkedin.com/in/eunji-elly-lee](https://www.linkedin.com/in/eunji-elly-lee/)> <br />
+- **Portfolio**: <[elly-portfolio.netlify.app](https://elly-portfolio.netlify.app/)> <br />
+- **Blog**: <[bit.ly/elly-notion](https://bit.ly/elly-notion)> <br />
 - **Email**: <elllee2020@gmail.com>
 
 ------------
