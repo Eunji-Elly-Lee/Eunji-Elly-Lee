@@ -1,6 +1,6 @@
 ### Keep Going!
 
-I'm Elly, a junior developer on the rise. I'm passionate about learning, creating beautiful code, and problem-solving.
+I'm Elly, a rapidly growing collaborative developer. I'm passionate about learning, creating beautiful code, and problem-solving.
 
 Every day, I thrive on the excitement of learning new technologies and embracing challenges head-on. One of my greatest joys is crafting clean, elegant code that not only works efficiently but also looks wonderful. When faced with a problem, I dive deep into analysis and enjoy sharing my insights and solutions with others.
 
