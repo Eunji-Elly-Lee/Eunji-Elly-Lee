@@ -21,7 +21,7 @@ Let's build something great together!
 - **LinkedIn**: <[linkedin.com/in/eunji-elly-lee](https://www.linkedin.com/in/eunji-elly-lee/)> <br />
 - **Portfolio**: <[elly-portfolio.netlify.app](https://elly-portfolio.netlify.app/)> <br />
 - **Blog**: <[bit.ly/elly-notion](https://bit.ly/elly-notion)> <br />
-- **Email**: <elllee2020@gmail.com>
+- **Email**: <ellylee2020@gmail.com>
 
 ------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunji-Elly-Lee&&include_all_commits=false&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
