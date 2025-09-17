@@ -21,5 +21,5 @@ Let's build something great together!
 - **Email**: <ellylee2020@gmail.com>
 
 ------------
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunji-Elly-Lee&&include_all_commits=false&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats-sigma-six-21.vercel.app/api?username=Eunji-Elly-Lee&include_all_commits=false&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunji-Elly-Lee&langs_count=10&layout=compact&theme=tokyonight&hide_border=true)
